@@ -1,4 +1,10 @@
-.DS_Store
-._DS_Store
+# JetBrains IDE's files
+.idea
 
+# Mac DS Store Files
+.DS_Store
+._.DS_Store
+
+# Git Repo Info File for subfolders that are included in SyncThing
+_GIT_REPO_INFO.md
 
