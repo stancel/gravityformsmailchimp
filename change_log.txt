@@ -1,3 +1,11 @@
+### 4.7 | 2020-03-24
+- Added translations for Hebrew, Hindi, Japanese, and Turkish.
+- Added support for feed duplication.
+- Updated stylesheets to use minified versions.
+- Updated strings containing MailChimp to Mailchimp and list(s) to audience(s).
+- Fixed a PHP error which could occur when using the http_request_timeout filter with WP 5.1+.
+
+
 ### 4.6 | 2019-03-22
 - Added support for Marketing Permissions (GDPR) fields.
 
